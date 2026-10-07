@@ -1,0 +1,11 @@
+Order_ID,Customer,Product,Category,Quantity,Price,Region
+1001,Rahul,Laptop,Electronics,1,55000,South
+1002,Priya,Headphones,Electronics,2,2500,South
+1003,Anil,Office Chair,Furniture,1,8500,North
+1004,Sneha,Keyboard,Electronics,3,1200,West
+1005,Arjun,Desk,Furniture,2,7000,South
+1006,Divya,Monitor,Electronics,2,15000,East
+1007,Kiran,Mouse,Electronics,4,800,North
+1008,Meena,Table,Furniture,1,9000,West
+1009,Ravi,Laptop,Electronics,2,55000,South
+1010,Pooja,Chair,Furniture,3,4500,East
